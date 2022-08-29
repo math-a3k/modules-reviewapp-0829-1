@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "71b12336c524efcea88882f10107bf334ff3cf7c2560a9a9fec8005d9a172c39"
+            "sha256": "641e55d40caedae79552f093dad1cec3440f9f11f67198da353d50d29cd1870e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -55,10 +55,6 @@
             ],
             "markers": "python_version ~= '3.7'",
             "version": "==5.2.0"
-        },
-        "cb-camera": {
-            "editable": true,
-            "path": "./modules/camera"
         },
         "cb-django-articles": {
             "editable": true,
@@ -301,7 +297,6 @@
             "version": "==3.8.0"
         },
         "google-api-core": {
-            "extras": [],
             "hashes": [
                 "sha256:06f7244c640322b508b125903bb5701bebabce8832f85aba9335ec00b3d02edc",
                 "sha256:93c6a91ccac79079ac6bbf8b74ee75db970cc899278b97d53bc012f35908cf50"
